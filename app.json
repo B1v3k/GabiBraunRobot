@@ -107,6 +107,12 @@
          "value": ""
 
       }, 
+         "REDIS_PASSWORD": {
+         "description": "Get REDIS_PASSWORD.",
+         "required": true,
+         "value": ""
+
+      }, 
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
